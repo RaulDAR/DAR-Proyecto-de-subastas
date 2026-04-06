@@ -64,6 +64,7 @@ javac -d out *.java //compilamos todos los archivos .java
 **Lanzamiento servidor**
 java -cp out servidor.ServidorSubasta //el puerto esta automatico en 9090
 //debe aparecer lo siguiente por terminal:
+
 === Servidor de Subastas SASP ===
 Puerto: 9090
 Esperando conexiones...
