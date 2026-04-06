@@ -73,15 +73,3 @@ Esperando conexiones...
 java -cp out cliente.ClienteSubasta *192.168.1.10* //la ip donde este el servidor 
 
 
-Ejemplos de uso:
-------------------
-**Registro y creación de una subasta**
-
-**Otro cliente puja y todos reciben notificación**
-
-**Cierre automático**
-
-
-
-
-  
