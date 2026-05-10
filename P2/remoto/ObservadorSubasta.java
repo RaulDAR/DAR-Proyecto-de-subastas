@@ -1,6 +1,6 @@
 package P2.remoto;
 
-import subasta.modelo.InfoSubasta;
+import P2.modelo.InfoSubasta;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
