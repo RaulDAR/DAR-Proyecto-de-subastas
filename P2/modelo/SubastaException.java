@@ -1,4 +1,4 @@
-package subasta.modelo;
+package P2.modelo;
 
 import java.io.Serializable;
 
