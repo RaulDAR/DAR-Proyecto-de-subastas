@@ -1,7 +1,7 @@
-package subasta.cliente;
+package P2.cliente;
 
-import subasta.modelo.InfoSubasta;
-import subasta.remoto.ObservadorSubasta;
+import P2.modelo.InfoSubasta;
+import P2.remoto.ObservadorSubasta;
 
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
