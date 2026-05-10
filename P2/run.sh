@@ -36,7 +36,7 @@ case "$1" in
     ;;
 
   *)
-    echo "Uso: $0 {compile|servidor [IP]|cliente [IP]}"
+    echo "Uso: $0 {compilar|servidor [IP]|cliente [IP]}"
     exit 1
     ;;
 
