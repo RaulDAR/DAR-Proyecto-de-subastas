@@ -1,9 +1,9 @@
-package subasta.cliente;
+package P2.cliente;
 
-import subasta.modelo.InfoSubasta;
-import subasta.modelo.SubastaException;
-import subasta.remoto.ObservadorSubasta;
-import subasta.remoto.SubastaServicioRemoto;
+import P2.modelo.InfoSubasta;
+import P2.modelo.SubastaException;
+import P2.remoto.ObservadorSubasta;
+import P2.remoto.SubastaServicioRemoto;
 
 import java.rmi.NotBoundException;
 import java.rmi.RemoteException;
