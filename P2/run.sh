@@ -5,7 +5,7 @@ JVM_FLAGS="-Djava.net.preferIPv4Stack=true"
 
 case "$1" in
 
-  compile)
+  compilar)
     echo "=== Compilando proyecto ==="
     mkdir -p "$OUT"
     find . -name "*.java" > sources.txt
