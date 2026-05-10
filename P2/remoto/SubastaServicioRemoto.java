@@ -1,10 +1,10 @@
-package subasta.remoto;
+package P2.remoto;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 import java.util.List;
-import subasta.modelo.InfoSubasta;
-import subasta.modelo.SubastaException;
+import P2.modelo.InfoSubasta;
+import P2.modelo.SubastaException;
 
 // Interfaz remota del servicio de subastas (Java RMI).
 // Cada metodo debe declarar RemoteException (fallo de red/RMI).
