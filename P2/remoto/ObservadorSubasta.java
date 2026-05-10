@@ -1,4 +1,4 @@
-package subasta.remoto;
+package P2.remoto;
 
 import subasta.modelo.InfoSubasta;
 
