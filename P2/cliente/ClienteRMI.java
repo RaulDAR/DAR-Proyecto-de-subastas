@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Scanner;
 
 
-// java -cp out subasta.cliente.ClienteRMI [host] [puerto]
+// java -cp out P2.cliente.ClienteRMI [host] [puerto]
 
 
 public class ClienteRMI {
